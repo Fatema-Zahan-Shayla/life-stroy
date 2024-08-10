@@ -1,0 +1,2 @@
+# life-stroy
+this repository
